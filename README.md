@@ -2,7 +2,17 @@
 
 ## 🚀 Project Overview
 
-This project aims to build predictive models that identify customers who are likely to leave a telecom service (churn). The goal is to help the business take preventive actions to reduce customer loss.
+This project is designed to analyze customer behavior and predict which telecom customers are likely to churn (i.e., leave the service). It combines exploratory data analysis (EDA), feature engineering, and machine learning modeling to:
+
+Understand key factors influencing customer churn
+
+Build and evaluate predictive models using Logistic Regression, Random Forest, and XGBoost
+
+Apply techniques like SMOTE 
+
+Provide actionable insights and business recommendations to help reduce churn rates
+
+By understanding the patterns behind customer departure, this project aims not only to predict churn but also to assist in designing data-driven strategies to retain customers
 
 ---
 
