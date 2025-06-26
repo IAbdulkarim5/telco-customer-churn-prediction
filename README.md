@@ -114,8 +114,7 @@ To install all required dependencies, simply run:
 ```bash
 pip install -r requirements.txt
 
-
-
+```
 ---
 
 Abdulkarim Almalki
