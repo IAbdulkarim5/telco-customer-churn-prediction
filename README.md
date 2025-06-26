@@ -24,6 +24,8 @@ By understanding the patterns behind customer departure, this project aims not o
   * `Telco-Customer-Churn.csv` (raw data)
   * `Telco-Customer-Churn-preprocessed.csv` (cleaned version)
 
+The dataset used in this project is publicly available on Kaggle:  
+[Telco Customer Churn - Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 ---
 
 ## 💡 Process & Pipeline
